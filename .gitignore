@@ -1,0 +1,7 @@
+/.idea/
+/target/
+
+/dependency-reduced-pom.xml
+/thin.iml
+
+.DS_Store
